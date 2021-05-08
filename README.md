@@ -5,6 +5,8 @@
 
 #### Student Developer.
 **I am a B Tech Student for CUSAT**
+
+
 <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="340" height="250">
 
 ## **Skills: C / CPP / JAVA / PYTHON /JAVASCRIPT / HTML / CSS / NODE JS / REACT**
