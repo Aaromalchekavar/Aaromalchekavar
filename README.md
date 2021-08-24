@@ -3,8 +3,8 @@
 
 # I am [Binil Biju](https://aaromalchekavar.github.io/Portfolio/)
 
-#### Student Developer.
-**I am a B Tech Student from CUSAT**
+## Student Developer.
+# **I am a B Tech Student from CUSAT**
 
 
 <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="340" height="250">
